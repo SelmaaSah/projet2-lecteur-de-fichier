@@ -9,7 +9,7 @@ public class FileReader {
     	// Test 1: Fichier Texte (.txt)
         //String cheminFichier = "C:\\Users\\selma\\Downloads\\testdoc-texte.txt"; 
         
-        //LecteurFichier monLecteur = new LecteurTxt(cheminFichier);
+        //LecteurFaichier monLecteur = new LecteurTxt(cheminFichier);
         
     	// Test 2: Fichier JSON (.json)
     	//String cheminFichier = "fichiers-a-tester/output.json";
